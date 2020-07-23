@@ -1,1 +1,2 @@
-![hehe](https://i.imgur.com/0zes5NT.png)
+Founder and developer @ discordlist.gg
+Founder and developer @ discord.style
