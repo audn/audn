@@ -1,8 +1,8 @@
 # Audun Hilden 
-:wave:  Hey there! I'm a **Front-End Engineer** and **UI** **Designer** with a total of **6-year experience** around developing and designing websites.
+:wave:  Hey there! I'm a **Front-End Engineer** and **UI** **Designer** with a total of **6-year experience** in developing and designing websites.
 Mostly working with React and Next.js, but I'm also learning Vue.js and C#.
 
-In my free time I enjoy going to the gym, communicating with people, or to just work on my personal projects. 
+In my free time, I enjoy going to the gym, communicating with people, or to just work on my personal projects. 
 
 ### :balloon: Founder of
 - [Rocketprices](https://rocketprices.net) *(Shut down)*
